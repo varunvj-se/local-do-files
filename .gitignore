@@ -1,0 +1,11 @@
+__pycache__
+.env
+.venv
+instance
+.DS_Store
+.idea
+.vscode
+*.rdb
+.localenv
+localenv
+uploads
